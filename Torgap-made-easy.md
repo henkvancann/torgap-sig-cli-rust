@@ -67,7 +67,7 @@ This is the whole point of sovereignty. `Self-sovereignty` means that you are fo
 ### We're getting lost; where comes 'bc-torgap' into play? <img src="./Images/emoji-2744064_1280.png" alt="Smiley asking questions and being confused" border="0" width="50">
 
 
-After you get used to secret keys to protect yourself, to enable yourself in the digital world and to control digital data and transactions with these keys. 
+After you get used to secret keys to protect yourself, to enable yourself in the digital world and to control digital data and transactions with these keys.
 
 “These are some other keys you can use to communicate with me” is an important use.
 
