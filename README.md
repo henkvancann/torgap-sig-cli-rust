@@ -36,7 +36,7 @@ See the [torgap repo](https://github.com/BlockchainCommons/torgap) for more info
 * [Signal protocol](https://en.wikipedia.org/wiki/Signal_Protocol#Properties) properties explained.
 * [Opentimestamps](opentimestamps.org) aims to be a standard format for blockchain timestamping, includingbitcoin. 
 
-## Status - Late Alpha
+## Status - Experimental
 
 `torgap-sig-cli-rust` is currently under active development and in the late alpha testing phase. It should not be used for production tasks until it has had further testing and auditing.
 
